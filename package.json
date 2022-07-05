@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Diegoo11/node-test#readme",
   "dependencies": {
-    "luxon": "^2.4.0"
+    "luxon": "^2.4.0",
+    "vanta": "^0.5.22"
   }
 }
