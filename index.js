@@ -10,7 +10,9 @@ const obj = {
 
 function consola(msj) {
   console.table(msj)
+  console.log(msj)
 }
 
 consola("Ya dile a tus papas que te vas con un loco que no te para de amar")
 
+export default consola
